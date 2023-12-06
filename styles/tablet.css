@@ -1,0 +1,17 @@
+.product-cards__container {
+  margin: 0 auto;
+  max-width: 60rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+.product-detail__card {
+  margin: 0;
+}
+
+.main-tables-container {
+  margin: 0 auto;
+  max-width: 60rem;
+  display: flex;
+}
